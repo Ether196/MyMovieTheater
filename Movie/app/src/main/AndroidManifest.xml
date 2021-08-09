@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.movie">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Movie">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Luca"
+            android:label = "Luca Movie"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.movie.MainActivity" />
+        </activity>
+
+        <activity android:name=".RickandMorty"
+            android:label = "Rick and Morty Movie"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.movie.MainActivity" />
+        </activity>
+
+        <activity android:name=".Awake"
+            android:label = "Awake Movie"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.movie.MainActivity" />
+        </activity>
+
+        <activity android:name=".Bartkowiak"
+            android:label = "Bartkowiak Movie"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.movie.MainActivity" />
+        </activity>
+
+        <activity android:name=".Cruella"
+            android:label = "Cruella Movie"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.movie.MainActivity" />
+        </activity>
+
+        <activity android:name=".Infinite"
+            android:label = "Infinite Movie"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.movie.MainActivity" />
+        </activity>
+
+        <activity android:name=".Ashfall"
+            android:label = "Ashfall Movie"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.movie.MainActivity" />
+        </activity>
+
+        <activity android:name=".Batman"
+            android:label = "Batman Movie"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.movie.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Movie Theater</string>
+    <string name="my_movie_world">My Movie World</string>
+    <string name="movie_rate">Movie Rating:</string>
+
+    <string name="ashfall">Ashfall</string>
+    <string name="rd_ashfall">December 19, 2019</string>
+    <string name="mr_ashfall">64%</string>
+    <string name="md_ashfall">A group of unlikely heroes from across the Korean peninsula try to save the day after a volcano erupts on the mythical and majestic Baekdu Mountain.</string>
+    <string name="mg_ashfall">Action, Adventure, Thriller</string>
+
+    <string name="awake">Awake</string>
+    <string name="rd_awake">June 9, 2021</string>
+    <string name="mr_awake">61%</string>
+    <string name="md_awake">After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.</string>
+    <string name="mg_awake">Drama, Science Fiction, Thriller</string>
+
+    <string name="bartkowiak">Bartkowiak</string>
+    <string name="rd_bartkowiak">July 28, 2021</string>
+    <string name="mr_bartkowiak">59%</string>
+    <string name="md_bartkowiak">After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub — and soon learns his sibling\'s death wasn’t an accident.</string>
+    <string name="mg_bartkowiak">Action, Thriller</string>
+
+    <string name="batman">Batman</string>
+    <string name="rd_batman">July 27, 2021</string>
+    <string name="mr_batman">78%</string>
+    <string name="md_batman">As Gotham City\'s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.</string>
+    <string name="mg_batman">Animation, Mystery, Crime</string>
+
+    <string name="cruella">Cruella</string>
+    <string name="rd_cruella">June 3, 2021</string>
+    <string name="mr_cruella">84%</string>
+    <string name="md_cruella">In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.</string>
+    <string name="mg_cruella">Comedy, Crime</string>
+
+    <string name="infinite">Infinite</string>
+    <string name="rd_infinite">September 9, 2021</string>
+    <string name="mr_infinte">72%</string>
+    <string name="md_infinite">Evan McCauley has skills he never learned and memories of places he has never visited. Self-medicated and on the brink of a mental breakdown, a secret group that call themselves “Infinites” come to his rescue, revealing that his memories are real.</string>
+    <string name="mg_infinite">Science Fiction, Action, Thriller</string>
+
+    <string name="luca">Luca</string>
+    <string name="rd_luca">June 17, 2021</string>
+    <string name="mr_luca">81%</string>
+    <string name="md_luca">Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.</string>
+    <string name="mg_luca">Animation, Comedy</string>
+
+    <string name="rick_and_morty">Rick and Morty</string>
+    <string name="rd_rick_and_morty">December 2, 2013</string>
+    <string name="mr_rick_and_morty">88%</string>
+    <string name="md_rick_and_morty">Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty\'s already unstable family life, these events cause Morty much distress at home and school.</string>
+    <string name="mg_rick_and_morty">Animation, Comedy, Sci-Fi</string>
+
+</resources>
